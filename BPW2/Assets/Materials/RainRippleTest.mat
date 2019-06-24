@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RainRippleTest
+  m_Shader: {fileID: -6465566751694194690, guid: af7ba7410a3b9f740baa084592bfee3d,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_2161F9AC:
+        m_Texture: {fileID: 2800000, guid: dbe7c8bf4b8275247ac8c2fd4b5bf6ef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_747DC28E:
+        m_Texture: {fileID: 2800000, guid: dc85fce37fcfa4e449972e21ec5901cd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_A4040A5F:
+        m_Texture: {fileID: 2800000, guid: fab85e0cacda9644a99e5182a86b71f5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_A4A40EA3:
+        m_Texture: {fileID: 8400000, guid: abe9c52cbf591cf4fae374b094522880, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_B9EC6CCD:
+        m_Texture: {fileID: 8400000, guid: e09a427dfaff60240ab7e656945c260c, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_C644BA56:
+        m_Texture: {fileID: 8400000, guid: abe9c52cbf591cf4fae374b094522880, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_C6456D65:
+        m_Texture: {fileID: 2800000, guid: 87ce03bd447ccce48bbff87ac0d8355f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_CB3A84D1:
+        m_Texture: {fileID: 8400000, guid: e09a427dfaff60240ab7e656945c260c, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_10E55232: 4.58
+    - Vector1_1145A5ED: 1.96
+    - Vector1_13C0E565: 1.45
+    - Vector1_2F7EDFC1: 6
+    - Vector1_4A6FA4DE: 34.89
+    - Vector1_58C0E067: 25.94
+    - Vector1_60763303: 7.98
+    - Vector1_8039E6F9: 0.247
+    - Vector1_8820FFAF: 0.05
+    - Vector1_907ED167: 0.6
+    - Vector1_C2CAE4AB: 0.06
+    - Vector1_C86A6C6D: 8
+    - Vector1_DBF2BF5D: 0.11
+    - Vector1_FD00EF82: 2
+    m_Colors:
+    - Color_184F5812: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_1613E053: {r: 1.2, g: 1, b: 0, a: 0}
+    - Vector2_436699AE: {r: 10, g: 12.5, b: 0, a: 0}
+    - Vector2_63F310D3: {r: 0.3, g: 0.8, b: 0, a: 0}
+    - Vector2_A6774A6F: {r: 10, g: 12.5, b: 0, a: 0}
+    - Vector2_BDD39A54: {r: 10, g: 12.5, b: 0, a: 0}
+    - Vector2_FB14940B: {r: 6, g: 6, b: 0, a: 0}

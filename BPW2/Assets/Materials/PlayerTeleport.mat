@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerTeleport
+  m_Shader: {fileID: -6465566751694194690, guid: 13e2dfc802589c644a91b1ce3df8bf0a,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_1F73EA2F:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_5D619BF8:
+        m_Texture: {fileID: 2800000, guid: 0a0e8af2869fa45f78e25460db578482, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_B4D06C02:
+        m_Texture: {fileID: 2800000, guid: 94c473c9137744d7eabd829f1150da8d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_D41C1F62:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_E4B40868:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Boolean_2BE96C9D: 0
+    - Boolean_7F89C224: 0
+    - Boolean_9EDFD3EB: 0
+    - Boolean_A538A6D1: 0
+    - Vector1_263378D3: 0.3
+    - Vector1_2F34AA1E: 0.01
+    - Vector1_56446FA: 1
+    - Vector1_58DAC233: -15
+    - Vector1_667259E0: 0
+    - Vector1_766DD7BB: 3.96
+    - Vector1_83733A14: 10
+    - Vector1_92F3B3E5: 0.3
+    - Vector1_99E23CB7: 0.04
+    - Vector1_9A9A7E62: 0.2
+    - Vector1_9F93EC95: 6
+    - Vector1_9FE87328: -3.48
+    - Vector1_A93F3EF9: 0.5
+    - Vector1_C5F273E1: 1.33
+    - Vector1_CB3CF81F: 5
+    - Vector1_CE54F781: 0.1
+    - Vector1_F8D3813F: 7
+    - Vector1_FD598042: -1
+    m_Colors:
+    - Color_10120917: {r: 2.670157, g: 0, b: 0.02587713, a: 0}
+    - Color_455C5534: {r: 0, g: 1, b: 1, a: 0}
+    - Color_AC328CE: {r: 0, g: 19.52169, b: 67.79352, a: 0}
+    - Color_D59BA966: {r: 0, g: 60.418793, b: 60.418793, a: 0}
+    - Color_D7A56571: {r: 16, g: 0, b: 8.028969, a: 0}
+    - Color_EE27033F: {r: 0, g: 0.5068941, b: 2, a: 0}
+    - Vector2_33747526: {r: -0.4, g: 0.4, b: 0, a: 0}
+    - Vector2_5E82424D: {r: 0, g: -10, b: 0, a: 0}
+    - Vector2_C5B3F046: {r: 200, g: 200, b: 0, a: 0}
+    - Vector2_FFB342BA: {r: 0.2, g: -0.4, b: 0, a: 0}

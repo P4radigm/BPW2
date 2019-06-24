@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BossMatHologram
+  m_Shader: {fileID: -6465566751694194690, guid: 0f7363ffc2a875346beebe96044551ae,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_EA3B350F:
+        m_Texture: {fileID: 2800000, guid: 50ddda3da635ec941b38f94742322b93, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_8B598E12: 0.35
+    - Vector1_F613C960: 5
+    m_Colors:
+    - Color_836DF9B3: {r: 0, g: 0, b: 0, a: 0}
+    - Color_C1DD9C67: {r: 1.3333334, g: 0.015686275, b: 0, a: 0}
+    - Color_E64A4031: {r: 0, g: 2.76602, b: 26.415491, a: 0}
+    - Vector2_325B2A7E: {r: 2, g: 8.73, b: 0, a: 0}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CubeMat
+  m_Shader: {fileID: -6465566751694194690, guid: 980fd729612720640b3654761ae06cc7,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_EA3B350F:
+        m_Texture: {fileID: 2800000, guid: 50ddda3da635ec941b38f94742322b93, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_8B598E12: 0.22
+    - Vector1_F613C960: 0.72
+    m_Colors:
+    - Color_836DF9B3: {r: 0.95149136, g: 0, b: 1, a: 0}
+    - Color_C1DD9C67: {r: 0, g: 6.2576604, b: 10.680627, a: 0}
+    - Color_E64A4031: {r: 17.759161, g: 0, b: 63.999992, a: 0}
+    - Vector2_325B2A7E: {r: 2, g: 8.73, b: 0, a: 0}
